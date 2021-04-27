@@ -34,7 +34,7 @@ def on_message(client, message):
         Database = c.fetchall()
         if len(Database) > 0:
             FileUrl = f"<a href ='https://t.me/attachfilenotimportantfile/{Database[0][2]}'>&#160;</a>" # Edit channel iD to your channel's username
-            caption = FileUrl + message.text
+            caption = message.text + FileUrl
             app.send_message(Database[0][0], caption, disable_web_page_preview = False, parse_mode = 'HTML')
     
 
