@@ -33,7 +33,7 @@ def on_message(client, message):
         c.execute(f"SELECT * FROM list WHERE userID = {ChatID}")
         Database = c.fetchall()
         if len(Database) > 0:
-            FileUrl = f" < a href = 'https://t.me/ChannelID/{Database[0][2]}' > &#160; < /a > " # Edit channel iD to your channel's username
+            FileUrl = f"<a href ='https://t.me/attachfilenotimportantfile/{Database[0][2]}'>&#160;</a>" # Edit channel iD to your channel's username
             caption = FileUrl + message.text
             app.send_message(Database[0][0], caption, disable_web_page_preview = False, parse_mode = 'HTML')
     
