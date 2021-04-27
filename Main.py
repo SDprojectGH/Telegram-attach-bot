@@ -7,9 +7,9 @@ con = db.connect('mydb.db', isolation_level = None, check_same_thread = False)
 c = con.cursor()
 c.execute("CREATE TABLE IF NOT EXISTS list (userID PRIMARY KEY, fileID TEXT, messageID Integer, caption TEXT)")
 
-api_id = 1551115
-api_hash = 'aadc10901b78df4ad6e2a94c8ab5b754'
-Token = '1753569872:AAFlMeqT89zFOSgL40FFu2p2UdXfulw_LDg'
+api_id = 000000
+api_hash = 'aaaaaaaaaaaa'
+Token = 'bbbbbbbbbbbbbb'
 app = Client('Session', api_id = api_id, api_hash = api_hash, bot_token = Token, proxy = 
             dict(hostname = '127.0.0.1', port = 1080))
 
