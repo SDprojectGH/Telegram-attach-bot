@@ -8,5 +8,7 @@ A bot to attach a media to a long message. Written using "Pyrogram" wrapper for 
 - Create a new bot using @BotFather. Add the bot to channel as admin
 - Edit config.py
 - run
-
-![image](https://user-images.githubusercontent.com/83290929/116490095-c735d500-a8ab-11eb-982f-cea947abf731.png)
+<p>
+  ![image](https://user-images.githubusercontent.com/83290929/116490095-c735d500-a8ab-11eb-982f-cea947abf731.png)
+  <h1 align="center"> </h1>
+</p>
