@@ -9,4 +9,4 @@ A bot to attach a media to a long message. Written using "Pyrogram" wrapper for 
 - Edit config.py
 - run
 
-![image](https://user-images.githubusercontent.com/83290929/116258641-5d71da00-a78a-11eb-8a66-869c10d1b9cf.png)
+![image](https://user-images.githubusercontent.com/83290929/116490095-c735d500-a8ab-11eb-982f-cea947abf731.png)
