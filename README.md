@@ -9,7 +9,7 @@ A bot to attach a media to a long message. Written using "Pyrogram" wrapper for 
 - Edit config.py
 - run
 <p>
-  <img src = https://user-images.githubusercontent.com/83290929/116490095-c735d500-a8ab-11eb-982f-cea947abf731.png />
+  <img align="center" src = https://user-images.githubusercontent.com/83290929/116490095-c735d500-a8ab-11eb-982f-cea947abf731.png />
   ![image](https://user-images.githubusercontent.com/83290929/116490095-c735d500-a8ab-11eb-982f-cea947abf731.png)
   <h1 align="center">a </h1>
 </p>
