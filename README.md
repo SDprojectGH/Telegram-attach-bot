@@ -1,4 +1,6 @@
-# Telegram_attach_bot
+<p align="center">
+  <h1 align="center">Attach Bot</h1>
+</p>
 
 A bot to attach a media to a long message. Written using "Pyrogram" wrapper for TelegramBots
 
